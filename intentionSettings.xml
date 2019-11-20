@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Conditional Operator/Replace If Else With Conditional" />
+    <ignoreAction name="PHP/Replace 'switch' with 'if'" />
+  </component>
+</application>
