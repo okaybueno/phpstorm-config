@@ -1,0 +1,53 @@
+<keymap version="1" name="Default for macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.Diff" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
