@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="aPFNLdkYOKApagZgmbnhRUGAPdM=" type="PLAIN_TEXT" />
+      <mapping pattern="get-collection" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
