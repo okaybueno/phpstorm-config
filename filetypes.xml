@@ -10,6 +10,7 @@
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="authScreen" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
