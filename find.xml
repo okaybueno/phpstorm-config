@@ -20,5 +20,6 @@
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
