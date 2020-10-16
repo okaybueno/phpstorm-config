@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern="encrypted_private_key_path" type="PLAIN_TEXT" />
