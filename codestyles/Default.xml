@@ -1,12 +1,16 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="260" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="SOFT_MARGINS" value="260" />
   <CssCodeStyleSettings>
     <option name="PROPERTIES_ORDER" value="position visibility z-index display box-sizing align-content justify-content align-items align-self flex flex-flow flex-basis flex-direction flex-grow flex-shrink flex-wrap order float cursor pointer-events user-select nav-index nav-up nav-right nav-down nav-left overflow overflow-x overflow-y top right bottom left transform transform-origin width min-width max-width height min-height max-height margin margin-top margin-right margin-bottom margin-left padding padding-top padding-right padding-bottom padding-left table-layout empty-cells caption-side outline outline-width outline-style outline-color outline-offset border border-width border-style border-color border-top border-top-width border-top-style border-top-color border-right border-right-width border-right-style border-right-color border-bottom border-bottom-width border-bottom-style border-bottom-color border-left border-left-width border-left-style border-left-color border-radius border-top-left-radius border-top-right-radius border-bottom-right-radius border-bottom-left-radius border-image border-image-source border-image-slice border-image-width border-image-outset border-image-repeat border-spacing border-collapse content font font-family font-size font-weight font-style font-variant font-size-adjust font-stretch line-height text-align text-align-last vertical-align white-space text-decoration text-emphasis text-emphasis-color text-emphasis-style text-emphasis-position text-indent text-justify letter-spacing word-spacing text-outline text-transform text-wrap text-overflow text-overflow-ellipsis text-overflow-mode word-wrap word-break tab-size hyphens quotes list-style list-style-position list-style-type list-style-image opacity color background background-color background-image background-repeat background-attachment background-position background-position-x background-position-y background-clip background-origin background-size box-decoration-break box-shadow text-shadow animation animation-name animation-duration animation-play-state animation-timing-function animation-delay animation-iteration-count animation-direction transition transition-delay transition-timing-function transition-duration transition-property clip zoom clear counter-reset counter-increment resize" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="SEPARATE" />
@@ -1016,6 +1020,11 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
@@ -1032,6 +1041,7 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <arrangement>
       <groups />
     </arrangement>
@@ -2033,5 +2043,11 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="Vue">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>

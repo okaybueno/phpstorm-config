@@ -17,9 +17,11 @@
     <mask>*.module</mask>
     <mask>*.phtml</mask>
     <mask>*.ctp</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.blade.php</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
     <mask>*.scss</mask>
   </component>
 </application>
