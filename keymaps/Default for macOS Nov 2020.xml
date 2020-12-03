@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for macOS Nov 2020" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+</keymap>
