@@ -19,9 +19,9 @@
     <mask>*.ctp</mask>
     <mask>*.twig</mask>
     <mask>*.blade.php</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
