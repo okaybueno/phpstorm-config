@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env" type=".env file" />
       <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern="encrypted_private_key_path" type="PLAIN_TEXT" />
@@ -11,7 +12,6 @@
       <mapping pattern="get-collection" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="push.apns" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
@@ -23,7 +23,6 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="PulsatingBubble" type="XHTML" />
-      <removed_mapping pattern=".env" type=".env file" />
     </extensionMap>
   </component>
 </application>
