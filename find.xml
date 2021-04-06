@@ -9,7 +9,7 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
-    <mask>*.vue</mask>
     <mask>*:php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
