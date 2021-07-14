@@ -19,7 +19,7 @@
     <mask>*.inc</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
