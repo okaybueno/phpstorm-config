@@ -19,9 +19,9 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.twig</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
     <mask>*.scss</mask>
   </component>
 </application>
