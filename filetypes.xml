@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern="encrypted_private_key_path" type="PLAIN_TEXT" />
@@ -23,6 +24,8 @@
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="PulsatingBubble" type="XHTML" />
     </extensionMap>
   </component>
