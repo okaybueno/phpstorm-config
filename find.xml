@@ -21,8 +21,8 @@
     <mask>**twig</mask>
     <mask>**php</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.twig</mask>
   </component>
 </application>
