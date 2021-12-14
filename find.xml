@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>**vue</mask>
     <mask>**twig</mask>
     <mask>**php</mask>
@@ -20,8 +22,8 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
