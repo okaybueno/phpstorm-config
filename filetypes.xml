@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
