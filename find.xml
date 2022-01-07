@@ -9,7 +9,6 @@
     <mask>*.twig</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.php4</mask>
@@ -22,5 +21,6 @@
     <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
