@@ -19,6 +19,7 @@
       <mapping pattern="push.apns" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="fig" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="apns" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
