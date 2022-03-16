@@ -7,6 +7,7 @@
     <mask>**twig</mask>
     <mask>**php</mask>
     <mask>*.ts</mask>
+    <mask>*.vue</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -21,6 +22,5 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
-    <mask>*.vue</mask>
   </component>
 </application>
