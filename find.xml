@@ -3,17 +3,14 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>**vue</mask>
     <mask>**twig</mask>
     <mask>**php</mask>
     <mask>*.ts</mask>
     <mask>*.twig</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -27,5 +24,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
