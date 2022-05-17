@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>**vue</mask>
     <mask>**twig</mask>
     <mask>**php</mask>
@@ -14,6 +15,8 @@
     <mask>*.twig</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
+    <mask>*.vue</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -25,7 +28,5 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.vue</mask>
-    <mask>*.js</mask>
   </component>
 </application>
