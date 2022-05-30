@@ -14,7 +14,7 @@
     <mask>*.ts</mask>
     <mask>*.twig</mask>
     <mask>*</mask>
-    <mask>*.vue</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -26,6 +26,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
   </component>
