@@ -23,7 +23,7 @@
     <mask>*.inc</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
