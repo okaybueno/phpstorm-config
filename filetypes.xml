@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="LandingPageCollections.vue" type="AUTO_DETECTED" />
+      <mapping pattern="aaa" type="AUTO_DETECTED" />
+      <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
       <mapping pattern="npm_build" type="AUTO_DETECTED" />
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="apple-app-site-association" type="AUTO_DETECTED" />
-      <mapping pattern="aaa" type="AUTO_DETECTED" />
-      <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
-      <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
+      <mapping pattern="aPFNLdkYOKApagZgmbnhRUGAPdM=" type="PLAIN_TEXT" />
+      <mapping pattern="push" type="PLAIN_TEXT" />
+      <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="__Fastfile" type="PLAIN_TEXT" />
       <mapping pattern="get-collection" type="PLAIN_TEXT" />
-      <mapping pattern="aPFNLdkYOKApagZgmbnhRUGAPdM=" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="encrypted_private_key_path" type="PLAIN_TEXT" />
-      <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="authScreen" type="PLAIN_TEXT" />
       <mapping pattern=".env_docker" type="PLAIN_TEXT" />
@@ -30,8 +31,9 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping pattern="LandingPageThemeTeaser" type="Vue.js" />
       <mapping pattern="PulsatingBubble" type="XHTML" />
+      <removed_mapping pattern="LandingPageThemeTeaser" approved="true" type="Vue.js" />
+      <removed_mapping pattern="Whatever" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
