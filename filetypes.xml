@@ -30,6 +30,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="LandingPageThemeTeaser" type="Vue.js" />
       <mapping pattern="PulsatingBubble" type="XHTML" />
     </extensionMap>
   </component>
