@@ -2,15 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>**vue</mask>
     <mask>**twig</mask>
     <mask>**php</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,6 +21,7 @@
     <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
