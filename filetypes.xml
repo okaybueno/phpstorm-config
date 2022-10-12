@@ -19,18 +19,18 @@
       <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="push.apns" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="fig" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="apns" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="PulsatingBubble" type="XHTML" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
     </extensionMap>
