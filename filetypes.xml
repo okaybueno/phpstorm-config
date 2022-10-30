@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="aaa" type="AUTO_DETECTED" />
+      <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
       <mapping pattern="npm_build" type="AUTO_DETECTED" />
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="apple-app-site-association" type="AUTO_DETECTED" />
-      <mapping pattern="aaa" type="AUTO_DETECTED" />
-      <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
+      <mapping pattern="authScreen" type="PLAIN_TEXT" />
+      <mapping pattern=".env_docker" type="PLAIN_TEXT" />
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
@@ -16,24 +18,21 @@
       <mapping pattern="encrypted_private_key_path" type="PLAIN_TEXT" />
       <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="authScreen" type="PLAIN_TEXT" />
-      <mapping pattern=".env_docker" type="PLAIN_TEXT" />
       <mapping pattern="push.apns" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="fig" type="PLAIN_TEXT" />
-      <mapping ext="mp4" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="apns" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="PulsatingBubble" type="XHTML" />
-      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
     </extensionMap>
   </component>
