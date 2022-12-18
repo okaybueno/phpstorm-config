@@ -26,7 +26,7 @@
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
