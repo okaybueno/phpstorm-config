@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…/index.js'" />
-    <option name="defaultScopeName" value="File '…/index.js'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/index.js'" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>**vue</mask>
     <mask>**twig</mask>
     <mask>**php</mask>
@@ -15,7 +15,6 @@
     <mask>*</mask>
     <mask>*.PHP</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.css</mask>
@@ -29,5 +28,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
