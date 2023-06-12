@@ -26,6 +26,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.hson</mask>
     <mask>*.scss</mask>
   </component>
 </application>
