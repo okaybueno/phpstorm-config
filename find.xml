@@ -10,7 +10,6 @@
     <mask>*.ts</mask>
     <mask>*</mask>
     <mask>*.PHP</mask>
-    <mask>*.twig</mask>
     <mask>*.hson</mask>
     <mask>*.vue</mask>
     <mask>*.css</mask>
@@ -25,6 +24,7 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.twig</mask>
     <mask>*.js</mask>
   </component>
 </application>
