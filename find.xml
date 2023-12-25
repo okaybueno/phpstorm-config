@@ -14,7 +14,6 @@
     <mask>*.PHP</mask>
     <mask>*.hson</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -27,6 +26,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.scss</mask>
   </component>
 </application>
