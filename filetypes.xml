@@ -6,33 +6,18 @@
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="ModalMatchDetails" type="AUTO_DETECTED" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
       <mapping pattern="Pluginfile" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern="__Fastfile" type="PLAIN_TEXT" />
       <mapping pattern="get-collection" type="PLAIN_TEXT" />
       <mapping pattern="aPFNLdkYOKApagZgmbnhRUGAPdM=" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="encrypted_private_key_path" type="PLAIN_TEXT" />
       <mapping pattern="push" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
       <mapping pattern="authScreen" type="PLAIN_TEXT" />
       <mapping pattern=".env_docker" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping pattern="push.apns" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="fig" type="PLAIN_TEXT" />
